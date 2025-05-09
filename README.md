@@ -9,3 +9,4 @@
 ./log_archive.sh /var/log
 ```
 - Here, /var/log is the log directory. 
+- This command will store the archive file in the same directory where you run the script. The archive file will be stored with timestamp.
